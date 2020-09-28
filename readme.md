@@ -1,3 +1,12 @@
+## Abstract
+
+### ENG
+Visualization of the process of Linear Regression
+
+### kor
+Linear Regression이 이루어지는 과정의 시각화
+
+
 ## RESULTS
 
 
