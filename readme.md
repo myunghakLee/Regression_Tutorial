@@ -1,9 +1,9 @@
 ## Abstract
 
-### ENG
+<p>ENG</p>
 Visualization of the process of Linear Regression
 
-### kor
+<p>kor</p>
 Linear Regression이 이루어지는 과정의 시각화
 
 
